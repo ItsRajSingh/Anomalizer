@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Temporary files
+*.mp3
+*.tmp
+*.log
+
+# Generated visualizations
+*.png
+*.jpg
+
+# Operating System files
+.DS_Store
+Thumbs.db
+```

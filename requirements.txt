@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+shap
+gtts
+pygame
+joblib
+openpyxl
+mplcursors
+```
